@@ -1,0 +1,17 @@
+{
+  "name": "command-line-player",
+  "version": "0.0.1",
+  "description": "Play screencast files in a terminal and record it as a gif, webm, or ogg video.",
+  "homepage": "http://github.com/my-own-kind/command-line-player",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mclarkson/my-own-kind.git"
+  },
+  "bin": {
+    "cmdline-player": "./cmdline-player"
+  },
+  "dependencies": {},
+  "devDependencies": {},
+  "author": "Mark Clarkson <mark.clarkson@smorg.co.uk>",
+  "license": "Apache2"
+}

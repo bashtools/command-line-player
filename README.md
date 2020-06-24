@@ -10,6 +10,10 @@ With the '-c' option this script will also create the Markdown format files and 
 
 All screencasts in my-own-kind were created with the `cmdline-player`.
 
+## Installation
+
+`sudo npm i -g command-line-player`
+
 ## Usage
 
 ```none
